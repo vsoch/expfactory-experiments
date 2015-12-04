@@ -1,0 +1,9 @@
+.middleMiddle {
+width: 20vw;
+height: 20vw;
+position:absolute;
+top:42.5%;
+left:52.5%;
+margin-right:0%;
+transform: translate(-25%,0%);
+}
