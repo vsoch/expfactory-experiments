@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Verbal Working Memory Impairment in Schizophrenia Patients and Their First-Degree Relatives: Evidence From the Digit Span Task",
+        "run": [
+                "experiment.js",
+                "style.css"
+               ],
+        "tag": "digit_span",
+        "cognitive_atlas_concept_id":"",
+        "cognitive_atlas_concept":"cognitive control",
+        "cognitive_atlas_task_id": "",
+        "contributors": [
+                         "Ian Eisenberg",
+                         "Zeynep Enkavi",
+                         "Patrick Bissett",
+                         "Vanessa Sochat",
+                         "Russell Poldrack"
+                        ], 
+        "lab": "Poldracklab",
+        "time":20,
+        "doi": "",
+        "reference": "http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.157.2.275",
+        "notes": "Subjects repeat the series of digits presented to them.",
+        "publish":"True"
+    
+   }
+]
