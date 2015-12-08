@@ -70,7 +70,7 @@ var blockTrial=0 //num trial within a block of trials
 var blockLength=5  //variable to be changed!! how many trials within a block of trials
 var currTrial=0 //global
 var stimArray=['0','1','2','3','4','5','6','7','8','9'];
-var pathSource ='/Users/jamieli/Desktop/jamie/digitSpan/'
+var pathSource ='static/experiments/digit_span/images/'
 var fileType = '.png'
 var num = 5
 
