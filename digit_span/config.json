@@ -3,7 +3,8 @@
         "name": "Verbal Working Memory Impairment in Schizophrenia Patients and Their First-Degree Relatives: Evidence From the Digit Span Task",
         "run": [
                 "experiment.js",
-                "style.css"
+                "style.css",
+                "static/js/jspsych/plugins/jspsych-single-stim.js"
                ],
         "tag": "digit_span",
         "cognitive_atlas_concept_id":"",
