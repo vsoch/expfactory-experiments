@@ -3,13 +3,6 @@
 /* Define helper functions */
 /* ************************************ */
 
-
-// NOTES FOR VANESSA
-/* THIS is the digit span file, the files that you would need are this, the plugin files, and the fundamental jspsych script. Plugin files are stored 
-(/Users/jamieli/Documents/Cognitive_Control_Ontology/static/js/jspsych/custom_plugins), and the jspsych script is in (/Users/jamieli/Documents/Cognitive_Control_Ontology/static/js/jspsych).
-Either one of the jspysch files is fine, they are just copies of each other for my sake. */
-
-
 /* var getDigit = function (){
 	if(blockTrial==0){
 		for (ii=0; ii<blockLength; ii++){
